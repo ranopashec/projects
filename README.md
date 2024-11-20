@@ -3,7 +3,6 @@ index of my pet and major projects
 # telegram bots (GO)
 
 - vuzzbot (creating queue in school)
-- ranoshed (reminders in telegram)
 
 # smart contracts (TACT)
 
